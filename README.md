@@ -1,2 +1,2 @@
 # Gypsy
-Analytics project 
+Analytics project site

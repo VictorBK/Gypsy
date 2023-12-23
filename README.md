@@ -1,4 +1,4 @@
 # Gypsy
-Analytics project site
+An analytics project site
 
 To be made using the appropriate framework.
